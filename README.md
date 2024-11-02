@@ -5,3 +5,5 @@ logic
 - Generate a random computer choice 
 - Compare the users choice to the computers choice
 - Determine the winner
+
+- Add a feature: Keep score.
